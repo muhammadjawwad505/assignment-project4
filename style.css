@@ -1,0 +1,71 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(236, 247, 253);
+    color: rgb(110, 110, 110);
+}
+
+#h1one {
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: rgb(155, 155, 155) 2px 4px 5px;
+    font-size: 50px;
+    padding: 10px;
+    cursor: pointer;
+    color: blue;
+}
+
+#div1 {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#h1two {
+    text-transform: uppercase;
+    font-size: 26px;
+}
+
+.img1 {
+    cursor: pointer;
+    width: 100%;
+}
+
+#p1 {
+    font-weight: bold;
+}
+
+#div2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.div1 {
+    text-align: center;
+    margin: 24px;
+}
+
+#div3 {
+    height: 400px;
+    width: 200px;
+    text-align: center;
+}
+
+#img1 {
+    width: 100%;
+}
+
+#div4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.p1hard {
+    color: rgb(110, 110, 110);
+    font-size: 25px;
+    text-align: center;
+}
